@@ -36,6 +36,6 @@
   # mensaje de busqueda billtera
 ![busqueda](/screenshots/busqueda-billetera.jpg)
 
-  # Websocket and Scraping Examples
+  # Funciones De Bielletera
 ![datos](/screenshots/datos-billetera.jpg)
 
